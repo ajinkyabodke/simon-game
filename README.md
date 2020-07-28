@@ -1,2 +1,3 @@
 # simon-game
-Understand JS by creating a Simon Game
+Understand JS by creating the Simon Game
+https://ajinkyabodke.github.io/simon-game/
